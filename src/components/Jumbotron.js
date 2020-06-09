@@ -32,7 +32,7 @@ export const Jumbotron = () => (
             <div className="overlay"></div>
             <Container>
                 <h1>Welcome to Animal Welfare Society</h1>
-                <p> Learn more about our animals and submit an application to adopt! </p>
+                <p><a href="https://awsocietycustomers-developer-edition.na111.force.com/s/">Learn more about our animals </a>and submit an application to adopt! </p>
             </Container>
         </Jumbo>
     </Styles>
