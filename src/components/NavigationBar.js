@@ -22,7 +22,7 @@ export const NavigationBar = () => (
     <Styles>
         {/* large */}
         <Navbar expand="lg">
-            <Navbar.Brand href="/"> Find and adopt your perfect pet today! </Navbar.Brand>
+            <Navbar.Brand href="/awsociety"> Find and adopt your perfect pet today! </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 {/* margain left auto */}
