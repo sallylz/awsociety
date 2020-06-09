@@ -18,19 +18,19 @@ export const Home = () => (
                         <input type="hidden" name="oid" defaultValue="00D3h000000E1Ad" />
                         <input type="hidden" name="retURL" defaultValue="http://google.com"/>
 
-                        <div class="col-xs-6">
+                        <div className="col-xs-6 col-md-6">
                             <div className="form-group">
                                 <label for="first_ name">First Name <span style={{color:'red'}}>*</span></label> <input id="first_name" maxlength="40"
                                     name="first_name" size="20" type="text" class="form-control" required/>
                             </div>
                         </div>
-                        <div class="col-xs-6">
+                        <div className="col-xs-6 col-md-6">
                             <div className="form-group">
                                 <label for="last_name">Last Name <span style={{color:'red'}}>*</span></label> <input id="last_name" maxlength="80"
                                     name="last_name" size="20" type="text" class="form-control" required/>
                             </div>
                         </div>
-                        <div class="col-xs-6">
+                        <div className="col-xs-6 col-md-6">
                             <div className="form-group">
                                 <label for="email">Email <span style={{color:'red'}}>*</span></label> <input  id="email" maxlength="80" 
                                     name="email" size="20" type="text" class="form-control" required />
