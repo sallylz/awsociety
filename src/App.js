@@ -18,9 +18,9 @@ class App extends Component{
         <Layout>       
           <Router>
             <Switch>
-              <Route exact path="/awsociety" component={Home} />
-              <Route path="/awsociety/about" component={About} />
-              <Route path="/awsociety/contact" component={Contact} />
+              <Route exact path="{process.env.PUBLIC_URL + '/'}" component={Home} />
+              <Route path="{process.env.PUBLIC_URL + '/about'}" component={About} />
+              <Route path="{process.env.PUBLIC_URL + '/contact'}" component={Contact} />
               <Route component={NoMatch} />
             </Switch>
           </Router>
