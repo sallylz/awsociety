@@ -1,5 +1,6 @@
 import React from 'react';
 import { Nav, Navbar } from 'react-bootstrap';
+import {Link} from 'react-router-dom';
 import styled from 'styled-components';
 
 // create a style component that wraps eerything
@@ -27,8 +28,8 @@ export const NavigationBar = () => (
             <Navbar.Collapse id="basic-navbar-nav">
                 {/* margain left auto */}
                 <Nav className="ml-auto">
-                    <Nav.Item><Nav.Link href="/awsociety">Home</Nav.Link></Nav.Item>
-                    <Nav.Item><Nav.Link href="/awsociety/about">About</Nav.Link></Nav.Item>
+                    <Nav.Item><Link to="/awsociety">Home</Link></Nav.Item>
+                    <Nav.Item><Link to="/awsociety/about">About</Link></Nav.Item>
                     <Nav.Item><Nav.Link href="/awsociety/contact">Contact</Nav.Link></Nav.Item>
                 </Nav>
             </Navbar.Collapse>
