@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/awsociety/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/awsociety/static/js/main.84fcaaa9.chunk.js",
-    "main.js.map": "/awsociety/static/js/main.84fcaaa9.chunk.js.map",
+    "main.js": "/awsociety/static/js/main.dc072695.chunk.js",
+    "main.js.map": "/awsociety/static/js/main.dc072695.chunk.js.map",
     "runtime-main.js": "/awsociety/static/js/runtime-main.b6ed97b4.js",
     "runtime-main.js.map": "/awsociety/static/js/runtime-main.b6ed97b4.js.map",
     "static/css/2.af3c1da9.chunk.css": "/awsociety/static/css/2.af3c1da9.chunk.css",
     "static/js/2.aec46558.chunk.js": "/awsociety/static/js/2.aec46558.chunk.js",
     "static/js/2.aec46558.chunk.js.map": "/awsociety/static/js/2.aec46558.chunk.js.map",
     "index.html": "/awsociety/index.html",
-    "precache-manifest.a8f0ea341e8b4fb04b909cb2b4704650.js": "/awsociety/precache-manifest.a8f0ea341e8b4fb04b909cb2b4704650.js",
+    "precache-manifest.5f0d53849cab3d8fb191a559c6e97528.js": "/awsociety/precache-manifest.5f0d53849cab3d8fb191a559c6e97528.js",
     "service-worker.js": "/awsociety/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/awsociety/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/awsociety/static/css/main.5ecd60fb.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.aec46558.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.84fcaaa9.chunk.js"
+    "static/js/main.dc072695.chunk.js"
   ]
 }
